@@ -1,42 +1,40 @@
 # SEO Skills
 
-> 更新日期：2026-11-08
+| Skill 指令 | 資料夾 | 來源 | 功能簡述 |
+|-----------|-------|------|---------|
+| [`/seo`](./seo/) | `seo/seo/` | 自訂 | Comprehensive SEO analysis for any website or business type. |
+| [`/seo-agentic`](./seo-agentic/) | `seo/seo-agentic/` | 自訂 | Audit and fix agent readiness: the Lighthouse Agentic Brows… |
+| [`/seo-ahrefs`](./seo-ahrefs/) | `seo/seo-ahrefs/` | 自訂 | Ahrefs API analyst (extension). |
+| [`/seo-audit`](./seo-audit/) | `seo/seo-audit/` | 自訂 | Run a full-site SEO audit and return a scored, prioritized … |
+| [`/seo-backlinks`](./seo-backlinks/) | `seo/seo-backlinks/` | 自訂 | Analyze a site's backlink profile, anchors, toxic signals, … |
+| [`/seo-bing`](./seo-bing/) | `seo/seo-bing/` | 自訂 | Bing Webmaster Tools + IndexNow extension. |
+| [`/seo-cluster`](./seo-cluster/) | `seo/seo-cluster/` | 自訂 | Cluster keywords by SERP overlap and design hub-and-spoke c… |
+| [`/seo-competitor-pages`](./seo-competitor-pages/) | `seo/seo-competitor-pages/` | 自訂 | Generate SEO-optimized competitor comparison and alternativ… |
+| [`/seo-content`](./seo-content/) | `seo/seo-content/` | 自訂 | Evaluate page content for usefulness, E-E-A-T, readability,… |
+| [`/seo-content-brief`](./seo-content-brief/) | `seo/seo-content-brief/` | 自訂 | Generate competitive SEO content briefs with per-section wo… |
+| [`/seo-dataforseo`](./seo-dataforseo/) | `seo/seo-dataforseo/` | 自訂 | Live SEO data via DataForSEO MCP server: SERP analysis, key… |
+| [`/seo-drift`](./seo-drift/) | `seo/seo-drift/` | 自訂 | SEO drift monitoring: capture baselines of SEO-critical ele… |
+| [`/seo-ecommerce`](./seo-ecommerce/) | `seo/seo-ecommerce/` | 自訂 | Analyze ecommerce SEO across product pages, product schema,… |
+| [`/seo-firecrawl`](./seo-firecrawl/) | `seo/seo-firecrawl/` | 自訂 | Full-site crawling, scraping, and site mapping via Firecraw… |
+| [`/seo-flow`](./seo-flow/) | `seo/seo-flow/` | 自訂 | FLOW framework integration: evidence-led SEO using the Find… |
+| [`/seo-geo`](./seo-geo/) | `seo/seo-geo/` | 自訂 | Audit and improve content for AI Overviews and answer engin… |
+| [`/seo-google`](./seo-google/) | `seo/seo-google/` | 自訂 | Google SEO APIs: Search Console (Search Analytics, URL Insp… |
+| [`/seo-hreflang`](./seo-hreflang/) | `seo/seo-hreflang/` | 自訂 | Hreflang and international SEO audit, validation, and gener… |
+| [`/seo-image-gen`](./seo-image-gen/) | `seo/seo-image-gen/` | 自訂 | AI image generation for SEO assets: OG/social preview image… |
+| [`/seo-images`](./seo-images/) | `seo/seo-images/` | 自訂 | Image optimization analysis for SEO and performance. |
+| [`/seo-local`](./seo-local/) | `seo/seo-local/` | 自訂 | Audit local SEO, including Google Business Profile, NAP con… |
+| [`/seo-maps`](./seo-maps/) | `seo/seo-maps/` | 自訂 | Maps intelligence for local SEO: geo-grid rank tracking, GB… |
+| [`/seo-matomo`](./seo-matomo/) | `seo/seo-matomo/` | 自訂 | Matomo Reporting API extension. |
+| [`/seo-page`](./seo-page/) | `seo/seo-page/` | 自訂 | Analyze one supplied URL across on-page, content, technical… |
+| [`/seo-plan`](./seo-plan/) | `seo/seo-plan/` | 自訂 | Strategic SEO planning for new or existing websites. |
+| [`/seo-profound`](./seo-profound/) | `seo/seo-profound/` | 自訂 | Profound LLM citation tracker (extension). |
+| [`/seo-programmatic`](./seo-programmatic/) | `seo/seo-programmatic/` | 自訂 | Programmatic SEO planning and analysis for pages generated … |
+| [`/seo-report`](./seo-report/) | `seo/seo-report/` | 自訂 | Run a full SEO audit on a URL, generate Chinese + English H… |
+| [`/seo-schema`](./seo-schema/) | `seo/seo-schema/` | 自訂 | Detect, validate, or generate Schema.org JSON-LD for a supp… |
+| [`/seo-seranking`](./seo-seranking/) | `seo/seo-seranking/` | 自訂 | SE Ranking AI visibility analyst (extension). |
+| [`/seo-sitemap`](./seo-sitemap/) | `seo/seo-sitemap/` | 自訂 | Analyze existing XML sitemaps or generate new ones with ind… |
+| [`/seo-sxo`](./seo-sxo/) | `seo/seo-sxo/` | 自訂 | Diagnose search-experience and intent mismatches using SERP… |
+| [`/seo-technical`](./seo-technical/) | `seo/seo-technical/` | 自訂 | Audit technical SEO across crawlability, indexability, secu… |
+| [`/seo-unlighthouse`](./seo-unlighthouse/) | `seo/seo-unlighthouse/` | 自訂 | Multi-page Lighthouse audit via the MIT-licensed Unlighthou… |
 
-## 指令清單
-
-| 指令 | 功能說明 | 使用時機 |
-|------|---------|----------|
-| [`/seo`](./seo/) | Comprehensive SEO analysis for any website or business type. | 自訂 skill |
-| [`/seo-agentic`](./seo-agentic/) | Audit and fix agent readiness: the Lighthouse Agentic Brows… | 自訂 skill |
-| [`/seo-ahrefs`](./seo-ahrefs/) | Ahrefs API analyst (extension). | 自訂 skill |
-| [`/seo-audit`](./seo-audit/) | Run a full-site SEO audit and return a scored, prioritized … | 自訂 skill |
-| [`/seo-backlinks`](./seo-backlinks/) | Analyze a site's backlink profile, anchors, toxic signals, … | 自訂 skill |
-| [`/seo-bing`](./seo-bing/) | Bing Webmaster Tools + IndexNow extension. | 自訂 skill |
-| [`/seo-cluster`](./seo-cluster/) | Cluster keywords by SERP overlap and design hub-and-spoke c… | 自訂 skill |
-| [`/seo-competitor-pages`](./seo-competitor-pages/) | Generate SEO-optimized competitor comparison and alternativ… | 自訂 skill |
-| [`/seo-content`](./seo-content/) | Evaluate page content for usefulness, E-E-A-T, readability,… | 自訂 skill |
-| [`/seo-content-brief`](./seo-content-brief/) | Generate competitive SEO content briefs with per-section wo… | 自訂 skill |
-| [`/seo-dataforseo`](./seo-dataforseo/) | Live SEO data via DataForSEO MCP server: SERP analysis, key… | 自訂 skill |
-| [`/seo-drift`](./seo-drift/) | SEO drift monitoring: capture baselines of SEO-critical ele… | 自訂 skill |
-| [`/seo-ecommerce`](./seo-ecommerce/) | Analyze ecommerce SEO across product pages, product schema,… | 自訂 skill |
-| [`/seo-firecrawl`](./seo-firecrawl/) | Full-site crawling, scraping, and site mapping via Firecraw… | 自訂 skill |
-| [`/seo-flow`](./seo-flow/) | FLOW framework integration: evidence-led SEO using the Find… | 自訂 skill |
-| [`/seo-geo`](./seo-geo/) | Audit and improve content for AI Overviews and answer engin… | 自訂 skill |
-| [`/seo-google`](./seo-google/) | Google SEO APIs: Search Console (Search Analytics, URL Insp… | 自訂 skill |
-| [`/seo-hreflang`](./seo-hreflang/) | Hreflang and international SEO audit, validation, and gener… | 自訂 skill |
-| [`/seo-image-gen`](./seo-image-gen/) | AI image generation for SEO assets: OG/social preview image… | 自訂 skill |
-| [`/seo-images`](./seo-images/) | Image optimization analysis for SEO and performance. | 自訂 skill |
-| [`/seo-local`](./seo-local/) | Audit local SEO, including Google Business Profile, NAP con… | 自訂 skill |
-| [`/seo-maps`](./seo-maps/) | Maps intelligence for local SEO: geo-grid rank tracking, GB… | 自訂 skill |
-| [`/seo-matomo`](./seo-matomo/) | Matomo Reporting API extension. | 自訂 skill |
-| [`/seo-page`](./seo-page/) | Analyze one supplied URL across on-page, content, technical… | 自訂 skill |
-| [`/seo-plan`](./seo-plan/) | Strategic SEO planning for new or existing websites. | 自訂 skill |
-| [`/seo-profound`](./seo-profound/) | Profound LLM citation tracker (extension). | 自訂 skill |
-| [`/seo-programmatic`](./seo-programmatic/) | Programmatic SEO planning and analysis for pages generated … | 自訂 skill |
-| [`/seo-report`](./seo-report/) | Run a full SEO audit on a URL, generate Chinese + English H… | 自訂 skill |
-| [`/seo-schema`](./seo-schema/) | Detect, validate, or generate Schema.org JSON-LD for a supp… | 自訂 skill |
-| [`/seo-seranking`](./seo-seranking/) | SE Ranking AI visibility analyst (extension). | 自訂 skill |
-| [`/seo-sitemap`](./seo-sitemap/) | Analyze existing XML sitemaps or generate new ones with ind… | 自訂 skill |
-| [`/seo-sxo`](./seo-sxo/) | Diagnose search-experience and intent mismatches using SERP… | 自訂 skill |
-| [`/seo-technical`](./seo-technical/) | Audit technical SEO across crawlability, indexability, secu… | 自訂 skill |
-| [`/seo-unlighthouse`](./seo-unlighthouse/) | Multi-page Lighthouse audit via the MIT-licensed Unlighthou… | 自訂 skill |
+---
